@@ -39,3 +39,6 @@ The output waveform should be the inverted form of the input waveform.
 ## Learning Outcome
 
 Through this simulation, I learned the basic operation of a CMOS inverter and how to observe its input and output waveforms using LTspice.
+
+## Simulation Waveforms
+The waveform below shows the input and output signals of the CMOS inverter.
